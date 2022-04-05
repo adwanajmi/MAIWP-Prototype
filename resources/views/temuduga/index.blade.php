@@ -12,7 +12,7 @@
                             <h5 class="alert alert-warning">Jemputan Temuduga</h5>
                         </div>
 
-                        @if (auth()->user()->role == 'admin' || auth()->user()->role == 'panel')
+                        @if (auth()->user()->role == 'pengesah' || auth()->user()->role == 'panel')
                             <div class="ms-auto my-auto mt-lg-0 mt-4">
                                 <div class="ms-auto my-auto">
                                     <a href="/RegisteredUser" class="btn bg-gradient-primary btn-sm mb-0">+&nbsp; Pendaftaran
