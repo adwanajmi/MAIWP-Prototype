@@ -13,21 +13,8 @@
         <div class="card-header">
             <div class="row flex-between-end">
                 <div class="card-header pb-0 p-3">
-                    <h6 class="mb-0">Perincian Laporan</h6>
-                    <div class="d-flex align-items-center">
-                        <span class="badge badge-md badge-dot me-4">
-                            <i class="bg-primary"></i>
-                            <span class="text-dark text-xs">Organic search</span>
-                        </span>
-                        <span class="badge badge-md badge-dot me-4">
-                            <i class="bg-dark"></i>
-                            <span class="text-dark text-xs">Referral</span>
-                        </span>
-                        <span class="badge badge-md badge-dot me-4">
-                            <i class="bg-info"></i>
-                            <span class="text-dark text-xs">Social media</span>
-                        </span>
-                    </div>
+                    <h6 class="mb-0" style="text-align: center">Perincian Laporan</h6>
+
                 </div>
                 <div class="card-body p-3">
                     <div class="chart">
@@ -47,7 +34,7 @@
         <div class="card-header">
             <div class="row flex-between-end">
                 <div class="col-auto flex-lg-grow-1 flex-lg-basis-0 align-self-center">
-                    <h5 class="mb-0" data-anchor="data-anchor">Laporan</h5>
+                    <h5 class="mb-0" style="text-align: center">Laporan</h5>
                 </div>
                 <div class="col-auto ms-auto">
                     <div class="col-auto"><a class="btn btn-falcon-default btn-sm" href="/laporan/create"><span

@@ -53,7 +53,8 @@
                                         <div style="display: flex; flex-wrap:nowrap">
                                             <div class="row">
                                                 <div class="col-auto">
-                                                    <div class="icon icon-shape bg-white shadow text-center border-radius-md">
+                                                    <div
+                                                        class="icon icon-shape bg-white shadow text-center border-radius-md">
                                                         <i class="ni ni-active-40 text-dark text-gradient text-lg opacity-10"
                                                             aria-hidden="true"></i>
 
@@ -73,7 +74,8 @@
                                         <div style="display: flex; flex-wrap:nowrap">
                                             <div class="row">
                                                 <div class="col-auto">
-                                                    <div class="icon icon-shape bg-white shadow text-center border-radius-md">
+                                                    <div
+                                                        class="icon icon-shape bg-white shadow text-center border-radius-md">
                                                         <i class="ni ni-active-40 text-dark text-gradient text-lg opacity-10"
                                                             aria-hidden="true"></i>
                                                     </div>
@@ -92,7 +94,8 @@
                                         <div style="display: flex; flex-wrap:nowrap">
                                             <div class="row">
                                                 <div class="col-auto">
-                                                    <div class="icon icon-shape bg-white shadow text-center border-radius-md">
+                                                    <div
+                                                        class="icon icon-shape bg-white shadow text-center border-radius-md">
                                                         <i class="ni ni-active-40 text-dark text-gradient text-lg opacity-10"
                                                             aria-hidden="true"></i>
                                                     </div>
@@ -250,6 +253,158 @@
                                     <td class="align-middle text-center">
                                         <span class="text-secondary text-sm">43431</span>
                                     </td>
+                                </tr>
+                                @if (auth()->user()->role == 'admin' || auth()->user()->role == 'pengesah')
+                                    <tr>
+                                        <td>
+                                            <div class="d-flex px-2 py-1">
+                                                <div class="d-flex flex-column justify-content-center">
+                                                    <h6 class="mb-0 text-sm">Kamarul Zaman
+                                                    </h6>
+                                                </div>
+                                            </div>
+                                        </td>
+                                        <td>
+                                            <p class="text-sm text-secondary mb-0">Pekerja</p>
+                                        </td>
+                                        <td>
+                                            <span class="badge badge-dot me-4">
+                                                <span class="text-dark text-xs">100%</span>
+                                            </span>
+                                        </td>
+                                        <td class="align-middle text-center text-sm">
+                                            <p class="text-secondary mb-0 text-sm">muhammad@kamarul.com</p>
+                                        </td>
+
+                                        <td class="align-middle text-center">
+                                            <span class="text-secondary text-sm">43231</span>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            <div class="d-flex px-2 py-1">
+                                                <div class="d-flex flex-column justify-content-center">
+                                                    <h6 class="mb-0 text-sm">Irfan Affandis
+                                                    </h6>
+                                                </div>
+                                            </div>
+                                        </td>
+                                        <td>
+                                            <p class="text-sm text-secondary mb-0">Pegawai Tadbir</p>
+                                        </td>
+                                        <td>
+                                            <span class="badge badge-dot me-4">
+                                                <span class="text-dark text-xs">70%</span>
+                                            </span>
+                                        </td>
+                                        <td class="align-middle text-center text-sm">
+                                            <p class="text-secondary mb-0 text-sm">muhammad@irfans.com</p>
+                                        </td>
+
+                                        <td class="align-middle text-center">
+                                            <span class="text-secondary text-sm">12321</span>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            <div class="d-flex px-2 py-1">
+                                                <div class="d-flex flex-column justify-content-center">
+                                                    <h6 class="mb-0 text-sm">Ah Coi Cina
+                                                    </h6>
+                                                </div>
+                                            </div>
+                                        </td>
+                                        <td>
+                                            <p class="text-sm text-secondary mb-0">Pekerja</p>
+                                        </td>
+                                        <td>
+                                            <span class="badge badge-dot me-4">
+                                                <span class="text-dark text-xs">100%</span>
+                                            </span>
+                                        </td>
+                                        <td class="align-middle text-center text-sm">
+                                            <p class="text-secondary mb-0 text-sm">ah@coi.com</p>
+                                        </td>
+
+                                        <td class="align-middle text-center">
+                                            <span class="text-secondary text-sm">31231</span>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            <div class="d-flex px-2 py-1">
+                                                <div class="d-flex flex-column justify-content-center">
+                                                    <h6 class="mb-0 text-sm">Azam Baki
+                                                    </h6>
+                                                </div>
+                                            </div>
+                                        </td>
+                                        <td>
+                                            <p class="text-sm text-secondary mb-0">Pekerja</p>
+                                        </td>
+                                        <td>
+                                            <span class="badge badge-dot me-4">
+                                                <span class="text-dark text-xs">90%</span>
+                                            </span>
+                                        </td>
+                                        <td class="align-middle text-center text-sm">
+                                            <p class="text-secondary mb-0 text-sm">muhammad@azam.com</p>
+                                        </td>
+
+                                        <td class="align-middle text-center">
+                                            <span class="text-secondary text-sm">12132</span>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            <div class="d-flex px-2 py-1">
+                                                <div class="d-flex flex-column justify-content-center">
+                                                    <h6 class="mb-0 text-sm">Shahmer Izz
+                                                    </h6>
+                                                </div>
+                                            </div>
+                                        </td>
+                                        <td>
+                                            <p class="text-sm text-secondary mb-0">Pekerja</p>
+                                        </td>
+                                        <td>
+                                            <span class="badge badge-dot me-4">
+                                                <span class="text-dark text-xs">50%</span>
+                                            </span>
+                                        </td>
+                                        <td class="align-middle text-center text-sm">
+                                            <p class="text-secondary mb-0 text-sm">muhammad@shahmer.com</p>
+                                        </td>
+
+                                        <td class="align-middle text-center">
+                                            <span class="text-secondary text-sm">12312</span>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            <div class="d-flex px-2 py-1">
+                                                <div class="d-flex flex-column justify-content-center">
+                                                    <h6 class="mb-0 text-sm">Mus Khai
+                                                    </h6>
+                                                </div>
+                                            </div>
+                                        </td>
+                                        <td>
+                                            <p class="text-sm text-secondary mb-0">Pekerja</p>
+                                        </td>
+                                        <td>
+                                            <span class="badge badge-dot me-4">
+                                                <span class="text-dark text-xs">10%</span>
+                                            </span>
+                                        </td>
+                                        <td class="align-middle text-center text-sm">
+                                            <p class="text-secondary mb-0 text-sm">mus@salam.com</p>
+                                        </td>
+
+                                        <td class="align-middle text-center">
+                                            <span class="text-secondary text-sm">41212</span>
+                                        </td>
+                                @endif
                                 </tr>
                             </tbody>
                         </table>

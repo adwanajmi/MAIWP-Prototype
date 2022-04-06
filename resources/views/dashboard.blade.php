@@ -96,7 +96,7 @@
                                     </div>
                                 </div>
                             </div>
-                            
+
                             <div class="card ">
                                 <div class="card-body p-3">
                                     <div class="row">
@@ -128,6 +128,150 @@
 
                 </div>
             </div>
+
+
+            <div class="row mt-4">
+                <div class="col-12 col-lg-10">
+                    <div class="card ">
+                        <div class="card-header pb-0 p-3">
+                            <div class="d-flex justify-content-between">
+                                <h6 class="mb-2">Permohonan dari Negeri</h6>
+                            </div>
+                        </div>
+                        <div class="table-responsive">
+                            <table class="table align-items-center ">
+                                <tbody>
+                                    <tr>
+                                        <td class="w-30">
+                                            <div class="d-flex px-2 py-1 align-items-center">
+                                                <div>
+                                                    <img src="../../assets/img/kl.png" alt="Negeri flag">
+                                                </div>
+                                                <div class="ms-4">
+                                                    <p class="text-xs font-weight-bold mb-0">Negeri:</p>
+                                                    <h6 class="text-sm mb-0">Kuala Lumpur</h6>
+                                                </div>
+                                            </div>
+                                        </td>
+                                        <td>
+                                            <div class="text-center">
+                                                <p class="text-xs font-weight-bold mb-0">Pemohon:</p>
+                                                <h6 class="text-sm mb-0">2500</h6>
+                                            </div>
+                                        </td>
+                                        <td>
+                                            <div class="text-center">
+                                                <p class="text-xs font-weight-bold mb-0">Jumlah:</p>
+                                                <h6 class="text-sm mb-0">3,900</h6>
+                                            </div>
+                                        </td>
+                                        <td class="align-middle text-sm">
+                                            <div class="col text-center">
+                                                <p class="text-xs font-weight-bold mb-0">Kenaikkan:</p>
+                                                <h6 class="text-sm mb-0">29.9%</h6>
+                                            </div>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td class="w-30">
+                                            <div class="d-flex px-2 py-1 align-items-center">
+                                                <div>
+                                                    <img src="../../assets/img/selangor.png" alt="Negeri flag">
+                                                </div>
+                                                <div class="ms-4">
+                                                    <p class="text-xs font-weight-bold mb-0">Negeri:</p>
+                                                    <h6 class="text-sm mb-0">Selangor</h6>
+                                                </div>
+                                            </div>
+                                        </td>
+                                        <td>
+                                            <div class="text-center">
+                                                <p class="text-xs font-weight-bold mb-0">Pemohon:</p>
+                                                <h6 class="text-sm mb-0">3.900</h6>
+                                            </div>
+                                        </td>
+                                        <td>
+                                            <div class="text-center">
+                                                <p class="text-xs font-weight-bold mb-0">Jumlah:</p>
+                                                <h6 class="text-sm mb-0">2,000</h6>
+                                            </div>
+                                        </td>
+                                        <td class="align-middle text-sm">
+                                            <div class="col text-center">
+                                                <p class="text-xs font-weight-bold mb-0">Kenaikkan:</p>
+                                                <h6 class="text-sm mb-0">40.22%</h6>
+                                            </div>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td class="w-30">
+                                            <div class="d-flex px-2 py-1 align-items-center">
+                                                <div>
+                                                    <img src="../../assets/img/johor.png" alt="Negeri flag">
+                                                </div>
+                                                <div class="ms-4">
+                                                    <p class="text-xs font-weight-bold mb-0">Negeri:</p>
+                                                    <h6 class="text-sm mb-0">Johor</h6>
+                                                </div>
+                                            </div>
+                                        </td>
+                                        <td>
+                                            <div class="text-center">
+                                                <p class="text-xs font-weight-bold mb-0">Pemohon:</p>
+                                                <h6 class="text-sm mb-0">1.400</h6>
+                                            </div>
+                                        </td>
+                                        <td>
+                                            <div class="text-center">
+                                                <p class="text-xs font-weight-bold mb-0">Jumlah:</p>
+                                                <h6 class="text-sm mb-0">90,700</h6>
+                                            </div>
+                                        </td>
+                                        <td class="align-middle text-sm">
+                                            <div class="col text-center">
+                                                <p class="text-xs font-weight-bold mb-0">Kenaikkan:</p>
+                                                <h6 class="text-sm mb-0">23.44%</h6>
+                                            </div>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td class="w-30">
+                                            <div class="d-flex px-2 py-1 align-items-center">
+                                                <div>
+                                                    <img src="../../assets/img/melaka.png" alt="Negeri flag">
+                                                </div>
+                                                <div class="ms-4">
+                                                    <p class="text-xs font-weight-bold mb-0">Negeri:</p>
+                                                    <h6 class="text-sm mb-0">Melaka</h6>
+                                                </div>
+                                            </div>
+                                        </td>
+                                        <td>
+                                            <div class="text-center">
+                                                <p class="text-xs font-weight-bold mb-0">Pemohon:</p>
+                                                <h6 class="text-sm mb-0">562</h6>
+                                            </div>
+                                        </td>
+                                        <td>
+                                            <div class="text-center">
+                                                <p class="text-xs font-weight-bold mb-0">Jumlah:</p>
+                                                <h6 class="text-sm mb-0">43,960</h6>
+                                            </div>
+                                        </td>
+                                        <td class="align-middle text-sm">
+                                            <div class="col text-center">
+                                                <p class="text-xs font-weight-bold mb-0">Kenaikkan:</p>
+                                                <h6 class="text-sm mb-0">32.14%</h6>
+                                            </div>
+                                        </td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
             <div class="row mt-4">
                 <div class="card-header bg-light d-flex justify-content-between">
                     <div class="card-body p-3">
@@ -136,7 +280,7 @@
 
                         </div>
                         <h6 class="ms-2 mt-4 mb-0"> Pengguna Aktif </h6>
-                        <p class="text-sm ms-2"> (<span class="font-weight-bolder">+23%</span>) than last week </p>
+                        <p class="text-sm ms-2"> (<span class="font-weight-bolder">+23%</span>) dari minggu lepas </p>
                         <div class="container border-radius-lg">
                             <div class="row">
                                 <div class="col-3 py-3 ps-0">
@@ -295,148 +439,6 @@
 
             </div>
 
-            <div class="row mt-4">
-                <div class="col-12 col-lg-10">
-                    <div class="card ">
-                        <div class="card-header pb-0 p-3">
-                            <div class="d-flex justify-content-between">
-                                <h6 class="mb-2">Permohonan dari Negeri</h6>
-                            </div>
-                        </div>
-                        <div class="table-responsive">
-                            <table class="table align-items-center ">
-                                <tbody>
-                                    <tr>
-                                        <td class="w-30">
-                                            <div class="d-flex px-2 py-1 align-items-center">
-                                                <div>
-                                                    <img src="../../assets/img/kl.png" alt="Negeri flag">
-                                                </div>
-                                                <div class="ms-4">
-                                                    <p class="text-xs font-weight-bold mb-0">Negeri:</p>
-                                                    <h6 class="text-sm mb-0">Kuala Lumpur</h6>
-                                                </div>
-                                            </div>
-                                        </td>
-                                        <td>
-                                            <div class="text-center">
-                                                <p class="text-xs font-weight-bold mb-0">Pemohon:</p>
-                                                <h6 class="text-sm mb-0">2500</h6>
-                                            </div>
-                                        </td>
-                                        <td>
-                                            <div class="text-center">
-                                                <p class="text-xs font-weight-bold mb-0">Value:</p>
-                                                <h6 class="text-sm mb-0">$230,900</h6>
-                                            </div>
-                                        </td>
-                                        <td class="align-middle text-sm">
-                                            <div class="col text-center">
-                                                <p class="text-xs font-weight-bold mb-0">Bounce:</p>
-                                                <h6 class="text-sm mb-0">29.9%</h6>
-                                            </div>
-                                        </td>
-                                    </tr>
-                                    <tr>
-                                        <td class="w-30">
-                                            <div class="d-flex px-2 py-1 align-items-center">
-                                                <div>
-                                                    <img src="../../assets/img/selangor.png" alt="Negeri flag">
-                                                </div>
-                                                <div class="ms-4">
-                                                    <p class="text-xs font-weight-bold mb-0">Negeri:</p>
-                                                    <h6 class="text-sm mb-0">Selangor</h6>
-                                                </div>
-                                            </div>
-                                        </td>
-                                        <td>
-                                            <div class="text-center">
-                                                <p class="text-xs font-weight-bold mb-0">Pemohon:</p>
-                                                <h6 class="text-sm mb-0">3.900</h6>
-                                            </div>
-                                        </td>
-                                        <td>
-                                            <div class="text-center">
-                                                <p class="text-xs font-weight-bold mb-0">Value:</p>
-                                                <h6 class="text-sm mb-0">$440,000</h6>
-                                            </div>
-                                        </td>
-                                        <td class="align-middle text-sm">
-                                            <div class="col text-center">
-                                                <p class="text-xs font-weight-bold mb-0">Bounce:</p>
-                                                <h6 class="text-sm mb-0">40.22%</h6>
-                                            </div>
-                                        </td>
-                                    </tr>
-                                    <tr>
-                                        <td class="w-30">
-                                            <div class="d-flex px-2 py-1 align-items-center">
-                                                <div>
-                                                    <img src="../../assets/img/johor.png" alt="Negeri flag">
-                                                </div>
-                                                <div class="ms-4">
-                                                    <p class="text-xs font-weight-bold mb-0">Negeri:</p>
-                                                    <h6 class="text-sm mb-0">Johor</h6>
-                                                </div>
-                                            </div>
-                                        </td>
-                                        <td>
-                                            <div class="text-center">
-                                                <p class="text-xs font-weight-bold mb-0">Pemohon:</p>
-                                                <h6 class="text-sm mb-0">1.400</h6>
-                                            </div>
-                                        </td>
-                                        <td>
-                                            <div class="text-center">
-                                                <p class="text-xs font-weight-bold mb-0">Value:</p>
-                                                <h6 class="text-sm mb-0">$190,700</h6>
-                                            </div>
-                                        </td>
-                                        <td class="align-middle text-sm">
-                                            <div class="col text-center">
-                                                <p class="text-xs font-weight-bold mb-0">Bounce:</p>
-                                                <h6 class="text-sm mb-0">23.44%</h6>
-                                            </div>
-                                        </td>
-                                    </tr>
-                                    <tr>
-                                        <td class="w-30">
-                                            <div class="d-flex px-2 py-1 align-items-center">
-                                                <div>
-                                                    <img src="../../assets/img/melaka.png" alt="Negeri flag">
-                                                </div>
-                                                <div class="ms-4">
-                                                    <p class="text-xs font-weight-bold mb-0">Negeri:</p>
-                                                    <h6 class="text-sm mb-0">Melaka</h6>
-                                                </div>
-                                            </div>
-                                        </td>
-                                        <td>
-                                            <div class="text-center">
-                                                <p class="text-xs font-weight-bold mb-0">Pemohon:</p>
-                                                <h6 class="text-sm mb-0">562</h6>
-                                            </div>
-                                        </td>
-                                        <td>
-                                            <div class="text-center">
-                                                <p class="text-xs font-weight-bold mb-0">Value:</p>
-                                                <h6 class="text-sm mb-0">$143,960</h6>
-                                            </div>
-                                        </td>
-                                        <td class="align-middle text-sm">
-                                            <div class="col text-center">
-                                                <p class="text-xs font-weight-bold mb-0">Bounce:</p>
-                                                <h6 class="text-sm mb-0">32.14%</h6>
-                                            </div>
-                                        </td>
-                                    </tr>
-                                </tbody>
-                            </table>
-                        </div>
-                    </div>
-                </div>
-            </div>
-
         </div>
     @endif
 
@@ -529,6 +531,37 @@
                     <div class="d-flex bg-gray-100 border-radius-lg p-3">
                         <h4 class="my-auto">
                             <span class="text-secondary text-sm me-1">RM</span>2,800<span
+                                class="text-secondary text-sm ms-1">/ sebulan </span>
+                        </h4>
+                        <a href="/iklanJawatan" class="btn btn-outline-dark mb-0 ms-auto">Mohon</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="container-fluid py-4">
+            <div class="card">
+                <div class="card-header p-3 pb-0">
+                    <div class="row">
+                        <div class="col-8 d-flex">
+                            <div>
+                                <img src="/assets/img/MAIWPLogo.png" class="avatar avatar-sm me-2" alt="avatar image">
+                            </div>
+                            <div class="d-flex flex-column justify-content-center">
+                                <h6 class="mb-0 text-sm">Pegawai Daerah</h6>
+                                <p class="text-xs">Kontrak</p>
+                            </div>
+                        </div>
+                        <div class="col-4">
+                            <span class="badge bg-gradient-info ms-auto float-end">Jawatan Baru</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="card-body p-3 pt-1">
+                    <h6>Pegawai Daerah @ MAIWP Selangor</h6>
+                    <p class="text-sm">Kepada yang berminat boleh memohon. Lokasi di KL</p>
+                    <div class="d-flex bg-gray-100 border-radius-lg p-3">
+                        <h4 class="my-auto">
+                            <span class="text-secondary text-sm me-1">RM</span>3,800<span
                                 class="text-secondary text-sm ms-1">/ sebulan </span>
                         </h4>
                         <a href="/iklanJawatan" class="btn btn-outline-dark mb-0 ms-auto">Mohon</a>
@@ -1581,7 +1614,7 @@
                                         <h6 class="text-white font-weight-bolder mb-3">Hey {{ $user->name }},</h6>
                                         <p class="text-white mb-3">Sistem Aplikasi dalaman MAIWP hanya boleh di akses di
                                             pejabat sahaja.</p>
-                                        <a class="btn btn-round btn-outline-white mb-0" href="javascript:;">
+                                        <a class="btn btn-round btn-outline-white mb-0" href="/">
                                             Baca
                                             <i class="fas fa-arrow-right text-sm ms-1" aria-hidden="true"></i>
                                         </a>
@@ -1711,7 +1744,7 @@
                                                     </svg>
                                                 </div>
                                                 <div class="d-flex flex-column">
-                                                    <h6 class="mb-1 text-dark text-sm">Apply Cuti</h6>
+                                                    <h6 class="mb-1 text-dark text-sm">Mohon Cuti</h6>
                                                     <a href="/cuti" class="text-xs">1 is active, <span
                                                             class="font-weight-bold">40 closed</span></span>
                                                 </div>

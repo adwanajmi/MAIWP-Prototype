@@ -12,7 +12,6 @@ class perkhidmatan extends Model
     public $table = 'perkhidmatans';
 
     protected $fillable = [
-        'perkhidmatan_id',
          'kontrak',
          'kwsp',
          'pencen',

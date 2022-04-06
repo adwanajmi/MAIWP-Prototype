@@ -30,7 +30,7 @@
                             </div>
 
                             <div class="dataTable-container" style="height: 500.633px;">
-                                <table class="table table-flush dataTable-table" id="datatable-search">
+                                <table id="example" class="table table-striped table-bordered" style="width:100%">
                                     <thead class="thead-light">
                                         <tr>
                                             <th class="text-center"><b>Panel Temuduga</b></th>

@@ -455,7 +455,7 @@
                         <li class="nav-item ">
                             <a class="nav-link " href="/cuti">
                                 <span class="sidenav-mini-icon"> A </span>
-                                <span class="sidenav-normal"> Apply Cuti </span>
+                                <span class="sidenav-normal"> Mohon Cuti </span>
                             </a>
                         </li>
 
@@ -693,4 +693,3 @@
 </body>
 
 </html>
-

@@ -10,10 +10,10 @@
     </style>
 
 
-    <div class="col-lg-7 col-md-12">
+    <div class="card h-md-100 ecommerce-card-min-width">
         <div class="card">
             <div class="card-header pb-0 p-3">
-                <h6 class="mb-0">Statistik Kakitangan</h6>
+                <h6 class="mb-0" style="text-align: center">Statistik Kakitangan</h6>
             </div>
             <div class="card-body p-3">
                 <div class="chart">
@@ -102,41 +102,23 @@
             var chart = am4core.create("chartdiv", am4charts.RadarChart);
 
             chart.data = [{
-                "country": "USA",
+                "country": "Pegawai Tadbir",
                 "visits": 2025
             }, {
-                "country": "China",
+                "country": "Pegawai Hal Ehwal",
                 "visits": 1882
             }, {
-                "country": "Japan",
+                "country": "Pembantu Hal Ehwal",
                 "visits": 1809
             }, {
-                "country": "Germany",
+                "country": "Pembantu",
                 "visits": 1322
             }, {
-                "country": "UK",
+                "country": "Pegawai Daerah",
                 "visits": 1122
             }, {
-                "country": "France",
+                "country": "Pembantu Daerah",
                 "visits": 1114
-            }, {
-                "country": "India",
-                "visits": 984
-            }, {
-                "country": "Spain",
-                "visits": 711
-            }, {
-                "country": "Netherlands",
-                "visits": 665
-            }, {
-                "country": "Russia",
-                "visits": 580
-            }, {
-                "country": "South Korea",
-                "visits": 443
-            }, {
-                "country": "Canada",
-                "visits": 441
             }];
 
             chart.innerRadius = am4core.percent(40)

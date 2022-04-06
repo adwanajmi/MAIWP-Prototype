@@ -24,10 +24,7 @@ class StoreperkhidmatanRequest extends FormRequest
     public function rules()
     {
         return [
-            'perkhidmatan_id' => [
-                'string',
-                'required',
-            ],
+          
 
             'kontrak' => [
                 'string',
